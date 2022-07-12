@@ -1,0 +1,12 @@
+
+ .filterPart {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.inputFilter {
+    width: 400px;
+    margin-right: 30px;
+  }

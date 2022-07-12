@@ -1,0 +1,12 @@
+
+.addBtn {
+   background-color: #135939 !important;
+}
+
+.addBtn:hover {
+   background-color: #124c32 !important;
+}
+
+.inputModal {
+    margin : 20px 0;
+}

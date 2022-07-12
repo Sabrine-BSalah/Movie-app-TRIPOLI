@@ -1,0 +1,14 @@
+.movieApp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.headPart {
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+}
+
